@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 ### 🛒 Full Stack E-Commerce App
 - User Authentication (JWT)
@@ -55,17 +55,17 @@
 ### 💬 Real-Time Chat App
 - Socket.io
 - Live Messaging
-- User Authentication
+- User Authentication -->
 
 ---
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-kumar56&show_icons=true&theme=radical)
+<!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-kumar56&show_icons=true&theme=radical) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Aditya-kumar56&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-kumar56&layout=compact&theme=radical)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-kumar56&layout=compact&theme=radical) -->
 
 ---
 
