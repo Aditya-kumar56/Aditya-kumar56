@@ -71,9 +71,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
+- 💼 LinkedIn: ([Add your link](https://www.linkedin.com/in/aditya-kumar-1a2036333/))
 - 🌐 Portfolio: (Add your link)
-- 📧 Email: (Add your email)
+- 📧 Email: (aditya01156@gmail.com)
 
 ---
 
